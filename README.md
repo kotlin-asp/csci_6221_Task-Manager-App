@@ -53,9 +53,13 @@ Contributions to this project are welcome. Follow these steps to contribute:
   2. Create a new branch for your feature or bugfix:
         git checkout -b feature/your-feature-name
   3. Make your changes and commit them with a clear message:
-        git commit -m "Add your detailed commit message here"
+
+     git commit -m "Add your detailed commit message here"
+     
   4.Push the changes to your fork:
-        git push origin feature/your-feature-name
+  
+  git push origin feature/your-feature-name
+  
   5. Open a pull request to the main repository.
 
 
